@@ -1,0 +1,16 @@
+{
+  "name": "@anmeldung/blocks",
+  "version": "1.0.0",
+  "description": "Contains form blocks that can be used in the backend and in the frontend",
+  "types": "models/index.ts",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
